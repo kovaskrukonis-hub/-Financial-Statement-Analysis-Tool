@@ -132,7 +132,7 @@ Metrics with no available data are excluded and weights redistribute proportiona
 
 ## Limitations
 
-- Data sourced from Yahoo Finance — subject to its availability and accuracy
-- Some companies report financial statements with non-standard or missing fields; affected ratios will show N/A
-- Based on annual statements; intra-year events may not be reflected
-- Financial companies (banks, insurers) use different accounting sta
+- Data sourced from Yahoo Finance — subject to its availability and accuracy.
+- Some companies report financial statements with non-standard or missing fields; affected ratios will show N/A.
+- Based on annual statements; intra-year events may not be reflected.
+- Financial companies (banks, insurers) use different accounting standards.
