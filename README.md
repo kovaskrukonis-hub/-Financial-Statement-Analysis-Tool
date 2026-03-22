@@ -16,7 +16,7 @@ Enter any ticker symbol and the tool computes 19 financial ratios across liquidi
 **Requirements:** Python 3.9+
 
 ```bash
-git clone https://github.com/kovaskrukonis-hub/stock-analyzer.git
+git clone https://github.com/kovaskrukonis-hub/Financial-Stetement-Analysis-Tool.git
 cd stock-analyzer
 pip install -r requirements.txt
 python main.py
