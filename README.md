@@ -6,8 +6,8 @@ Enter any ticker symbol and the tool computes 19 financial ratios across liquidi
 
 ---
 
-<img width="698" height="580" alt="image" src="https://github.com/user-attachments/assets/31754b95-46f7-40a5-a411-86879348c857" />
-<img width="701" height="668" alt="image" src="https://github.com/user-attachments/assets/c531bf2c-bee7-4d19-bb3c-e8281047ec27" />
+<img width="682" height="566" alt="image" src="https://github.com/user-attachments/assets/e24bf304-46c9-4b31-8f8c-da9508073143" />
+<img width="677" height="675" alt="image" src="https://github.com/user-attachments/assets/de3d1cc4-1189-457b-ab20-39c6c9c67bb5" />
 
 ---
 
